@@ -1,5 +1,5 @@
-name: couldai_user_app
-description: "A new Flutter project."
+name: tito_app
+description: "تطبيق تواصل اجتماعي متكامل يجمع بين التعارف والدردشة والألعاب ورومات البث الصوتي في مكان واحد. يتيح إنشاء صداقات جديدة، دردشة خاصة وجماعية، ألعاب تفاعلية، ورمات بث صوتي مفتوحة وخاصة."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
